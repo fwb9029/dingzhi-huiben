@@ -1,0 +1,4 @@
+interface:
+  display_name: "绘本"
+  short_description: "定制儿童绘本的故事分镜、角色连续性、无字插画、中文独立排版与逐页验收"
+  default_prompt: "使用 $picture-book 按当前需求制作或完善绘本，优先复用已有成果。"
